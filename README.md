@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxmeslukin&label=Profile%20views&color=0e75b6&style=flat" alt="jxmeslukin" /> </p>
 
-- 🔭 I’m currently working on **visualisetheblockchain**
+- 🔭 I’m currently working on **fullstak**
 
 - 🌱 I’m currently learning **Ruby, Node, TS, React**
 
